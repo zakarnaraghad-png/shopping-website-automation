@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-SignUpPageAlreadyExistingAccount</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b8ac50a5-7f85-49a7-9707-58fdb7b9d1e1</testCaseGuid>
+</TestCaseEntity>
