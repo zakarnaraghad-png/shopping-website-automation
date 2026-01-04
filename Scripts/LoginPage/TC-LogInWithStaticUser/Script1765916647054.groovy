@@ -21,3 +21,5 @@ import validation.LoginValidation
 import internal.GlobalVariable
 LoginPageActions.loginWithUser(GlobalVariable.signin_email, GlobalVariable.signin_password)
 LoginValidation.validateSuccessfulLogin()
+
+// COMMENT
